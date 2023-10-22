@@ -15,18 +15,18 @@
 
 
 body {
-    background:#fff;
+    background:#ffffff;
 }
 
 
 /* Default Link Color */
 
 a, .la-ball-triangle-path {
-    color:#d2b356;
+    color:#F27DC5;
 }
 
 a:hover, #header.nav-solid nav a:hover {
-    color:#d2b356;
+    color:#F27DC5;
 }
 
 /* Default Icon Color */
@@ -38,11 +38,11 @@ a:hover, #header.nav-solid nav a:hover {
 /* Border Color */
 
 #banner .section-heading:before, .testimonial.classic footer:before {
-    background: #d2b356;
+    background: #F27DC5;
 }
 
 .pricing-block-content:hover {
-    border-color:#d2b356;
+    border-color:#F27DC5;
 }
 
 
@@ -61,7 +61,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Navigation Colors when the Navigation is sticky and solid */ 
 
 #header.nav-solid, #header.nav-solid a, #header.nav-solid i, #nav-mobile ul li a {
-    color:#333;
+    color:rgb(212, 62, 215)
 }
 
 
@@ -138,7 +138,7 @@ body {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size:15px;
     font-weight:normal;
-    color:#111;
+    color:#2c152b;
 }
 
 /* Logo, if you are using Fonts as Logo and not image
@@ -167,7 +167,7 @@ body {
     font-size:62px;
     line-height:60px;
     font-weight:800;
-    color:#0b2c4d;
+    color:#ffffff;
 }
 
 #banner h2 {
